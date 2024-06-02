@@ -44,9 +44,9 @@ k9s:
   dialog:
     fgColor: *foreground
     bgColor: *background
-    buttonFgColor: *foreground
+    buttonFgColor: *background
     buttonBgColor: *purple
-    buttonFocusFgColor: *yellow
+    buttonFocusFgColor: *background
     buttonFocusBgColor: *pink
     labelFgColor: *orange
     fieldFgColor: *foreground
@@ -119,7 +119,7 @@ k9s:
       fgColor: *foreground
       bgColor: *background
       indicator:
-        fgColor: *foreground
+        fgColor: *background
         bgColor: *purple
-        toggleOnColor: *green
-        toggleOffColor: *cyan
+        toggleOnColor: *background
+        toggleOffColor: *selection
