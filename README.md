@@ -20,3 +20,16 @@
     <img src="https://i.ibb.co/9cSzCxL/k9s-neofusion-4.png" alt="neofusion" />
     <img src="https://i.ibb.co/n6Lb4jx/k9s-neofusion-5.png" alt="neofusion" />
 </p>
+
+# Projects ⭐
+
+### `neofusion.iterm`
+
+iTerm2 theme version. [Check it out!](https://github.com/diegoulloao/neofusion.iterm)
+
+### `neofusion.nvim`
+
+Neovim theme version. [Check it out!](https://github.com/diegoulloao/neofusion.nvim)
+
+### `neofusion-wallpapers`
+Beautiful wallpapers that match your setup. [Check available resolutions](https://github.com/diegoulloao/neofusion-wallpapers?tab=readme-ov-file)
