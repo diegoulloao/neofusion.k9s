@@ -39,8 +39,8 @@ Beautiful wallpapers that match your setup. [Check available resolutions](https:
 
 Check out our awesome sponsors!
 
-<div style="display:flex;justify-content:center">
-  <img src="https://avatars.githubusercontent.com/u/6558867" width="64" height="64" loading="lazy" />
-  <h4>Adam Stracener</h4>
-  <p>@NeckBeardPrince</p>
+<div>
+  <a href="https://github.com/NeckBeardPrince" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/6558867" width="64" height="64" />
+  </a>
 </div>
