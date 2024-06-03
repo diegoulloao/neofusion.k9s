@@ -35,9 +35,9 @@ Neovim theme version. [Check it out!](https://github.com/diegoulloao/neofusion.n
 
 Beautiful wallpapers that match your setup. [Check available resolutions](https://github.com/diegoulloao/neofusion-wallpapers?tab=readme-ov-file)
 
-# Sponsors ❤️
+# Sponsor ❤️
 
-Check out our awesome sponsors!
+Check out our awesome sponsor!
 
 <div>
   <a href="https://github.com/NeckBeardPrince" target="_blank">
