@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        <img src="https://i.ibb.co/87DhmZx/logo.jpg" width="110" />
+        <img src="https://i.ibb.co/wMhmrH9/logo.jpg" width="110" />
         <br />neofusion.k9s
     </h1>
 </div>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    Neofusion theme port of iTerm2 for k9s
+    Neofusion theme for k9s
 </p>
 
 <p align="center">
