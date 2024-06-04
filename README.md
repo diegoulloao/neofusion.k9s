@@ -39,6 +39,10 @@ Neovim theme version. [Check it out!](https://github.com/diegoulloao/neofusion.n
 
 Bat theme version [Check it out!](https://github.com/diegoulloao/neofusion.bat/)
 
+### `neofusion.fzf`
+
+FZF theme version [Check it out!](https://github.com/diegoulloao/neofusion.fzf/)
+
 ### `neofusion-wallpapers`
 
 Beautiful wallpapers that match your setup. [Check available resolutions](https://github.com/diegoulloao/neofusion-wallpapers?tab=readme-ov-file)
