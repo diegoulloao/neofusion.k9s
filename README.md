@@ -35,6 +35,10 @@ iTerm2 theme version. [Check it out!](https://github.com/diegoulloao/neofusion.i
 
 Neovim theme version. [Check it out!](https://github.com/diegoulloao/neofusion.nvim)
 
+### `neofusion.bat`
+
+Bat theme version [Check it out!](https://github.com/diegoulloao/neofusion.bat/)
+
 ### `neofusion-wallpapers`
 
 Beautiful wallpapers that match your setup. [Check available resolutions](https://github.com/diegoulloao/neofusion-wallpapers?tab=readme-ov-file)
