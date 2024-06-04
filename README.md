@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    Neofusion theme for k9s
+    Neofusion theme for <a href="https://github.com/derailed/k9s" target="_blank">k9s</a>
 </p>
 
 <p align="center">
