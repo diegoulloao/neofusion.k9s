@@ -21,6 +21,10 @@
     <img src="https://i.ibb.co/n6Lb4jx/k9s-neofusion-5.png" alt="neofusion" />
 </p>
 
+# Installation 📦
+
+Check the [skins section](https://k9scli.io/topics/skins/) in the k9s documentation
+
 # Projects ⭐
 
 ### `neofusion.iterm`
