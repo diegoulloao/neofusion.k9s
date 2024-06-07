@@ -31,6 +31,10 @@ Check the [skins section](https://k9scli.io/topics/skins/) in the k9s documentat
 
 iTerm2 theme version. [Check it out!](https://github.com/diegoulloao/neofusion.iterm)
 
+### `neofusion.alacritty`
+
+Alacritty theme version. [Check it out!](https://github.com/diegoulloao/neofusion.alacritty)
+
 ### `neofusion.nvim`
 
 Neovim theme version. [Check it out!](https://github.com/diegoulloao/neofusion.nvim)
