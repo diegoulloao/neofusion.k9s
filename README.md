@@ -25,7 +25,7 @@
 
 Check the [skins section](https://k9scli.io/topics/skins/) in the k9s documentation
 
-# Projects ⭐
+# Ports ⭐
 
 ### `neofusion.iterm`
 
