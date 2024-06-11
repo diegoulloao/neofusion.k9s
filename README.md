@@ -39,6 +39,10 @@ Alacritty theme version. [Check it out!](https://github.com/diegoulloao/neofusio
 
 Kitty theme version. [Check it out!](https://github.com/diegoulloao/neofusion.kitty)
 
+### `neofusion.winterm`
+
+Windows Terminal theme version. [Check it out!](https://github.com/diegoulloao/neofusion.winterm)
+
 ### `neofusion.nvim`
 
 Neovim theme version. [Check it out!](https://github.com/diegoulloao/neofusion.nvim)
